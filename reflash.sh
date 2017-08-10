@@ -1,6 +1,6 @@
 #!/bin/sh
 
-echo "Inspect this script and rather than running it directly"
+echo "Don't run this script directly; inspect it and take what you need"
 exit 1
 
 # http://mitchtech.net/arduino-usb-hid-keyboard/ uses at90usb82 but only
